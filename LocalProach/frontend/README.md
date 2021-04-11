@@ -1,3 +1,1 @@
-#Web Application Template
-
-A very basic project template using node.js, express, ejs, bootstrap and firebase.
+Web application using node.js, ejs, and potentially firebase.
