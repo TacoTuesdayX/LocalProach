@@ -14,9 +14,7 @@ const getFive = (term, loc) => {
       method: 'get',
       url: uri,
       headers: {
-        'Authorization': 'bearer 1vx9NL7UjCgR7T587ZuBiiMsetO7iYHqhtGOKx_0K183IRX'
-        +'KLxPitikXd8vBxpVRf0EfU9HaPjGcFtU0ROC5azb2uTawwT-sa30dh_PMOlsu-eFu1Ng8c'
-        +'ByTHPhxYHYx'
+        'Authorization': 'dont be stealin my bearer bro [unless this is Anjali or Luke, DM]'
     }
   };
 
