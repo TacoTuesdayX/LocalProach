@@ -1,0 +1,8 @@
+{
+    "name" : "LocalProach",
+    "description" : "a chrome extension to combat chain dominance in SEO",
+    "version" : "0.0.1",
+    "dependencies" : {
+        "axios" : "^0.21.1"
+    }
+}
